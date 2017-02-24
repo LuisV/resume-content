@@ -2,4 +2,4 @@ The main componentes of a resume are:
 1) 
 2) 
 3) 
-4) Component four 
+4) Componnent four: Projects
